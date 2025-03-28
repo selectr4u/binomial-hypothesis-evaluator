@@ -6,5 +6,5 @@ to run it simply just use a lua interpreter (preferrably >5.4?) to run it and fo
 
 it should be accurate in what it's doing (hopefully i've interpreted how binomial hypothesis testing works correctly)
 
-### license
+### License
 this project is licensed under the MIT license, see the [LICENSE](https://github.com/selectr4u/binomial-hypothesis-evaluator/blob/main/LICENSE) file for more details.
